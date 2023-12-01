@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Titles>
+	<Title>
+		<Name>Counter-Strike</Name>
+		<AppID>90</AppID>
+		<Abreviation>cstrike</Abreviation>
+		<CreationYear>1999</CreationYear>
+		<Type>FPS</Type>
+		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/10/header.jpg</TitlePicture>
+		<Resume>Jeu de tir FPS</Resume>
+		<AdditionalInfos>https://steamdb.info/app/10/</AdditionalInfos>
+	</Title>
+	<Title>
+		<Name>Counter-Strike Source</Name>
+		<AppID>240</AppID>
+		<Abbreviation>css</Abbreviation>
+		<CreationYear>2000</CreationYear>
+		<Type>FPS</Type>
+		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/240/header.jpg</TitlePicture>
+		<Resume>Jeu de tir FPS</Resume>
+		<AdditionalInfos>https://steamdb.info/app/240/info/</AdditionalInfos>
+	</Title>
+	<Title>
+		<Name>ARK Survival Evolved</Name>
+		<AppID></AppID>
+		<Abbreviation></Abbreviation>
+		<CreationYear></CreationYear>
+		<Type>Survival</Type>
+		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/346110/header.jpg</TitlePicture>
+		<Resume>Jeu de survie</Resume>
+		<AdditionalInfos>https://steamdb.info/app/346110/info/</AdditionalInfos>
+	</Title>
+</Titles>
