@@ -4,9 +4,11 @@
 		<Name>Counter-Strike</Name>
 		<AppID>90</AppID>
 		<Abreviation>cstrike</Abreviation>
-		<CreationYear>1999</CreationYear>
-		<Type>FPS</Type>
 		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/10/header.jpg</TitlePicture>
+		<CreationYear>1999</CreationYear>
+		<DevTeam>Valve</DevTeam>
+		<Publisher>Valve</Publisher>
+		<Type>FPS</Type>
 		<Resume>Jeu de tir FPS</Resume>
 		<AdditionalInfos>https://steamdb.info/app/10/</AdditionalInfos>
 	</Title>
@@ -14,9 +16,11 @@
 		<Name>Counter-Strike Source</Name>
 		<AppID>240</AppID>
 		<Abreviation>css</Abreviation>
-		<CreationYear>2000</CreationYear>
-		<Type>FPS</Type>
 		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/240/header.jpg</TitlePicture>
+		<CreationYear>2000</CreationYear>
+		<DevTeam>Valve</DevTeam>
+		<Publisher>Valve</Publisher>
+		<Type>FPS</Type>
 		<Resume>Jeu de tir FPS</Resume>
 		<AdditionalInfos>https://steamdb.info/app/240/info/</AdditionalInfos>
 	</Title>
@@ -24,9 +28,11 @@
 		<Name>ARK Survival Evolved</Name>
 		<AppID>346110</AppID>
 		<Abreviation>arkse</Abreviation>
-		<CreationYear>2015</CreationYear>
-		<Type>Survival</Type>
 		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/346110/header.jpg</TitlePicture>
+		<CreationYear>2015</CreationYear>
+		<DevTeam>Wildcard</DevTeam>
+		<Publisher>Wildcard</Publisher>
+		<Type>Survival</Type>
 		<Resume>Jeu de survie</Resume>
 		<AdditionalInfos>https://steamdb.info/app/346110/info/</AdditionalInfos>
 	</Title>
@@ -34,9 +40,11 @@
 		<Name>Black-Mesa (Source-Coop Mod)</Name>
 		<AppID>244310</AppID>
 		<Abreviation>bms-sourcecoop</Abreviation>
-		<CreationYear>2014</CreationYear>
-		<Type>FPS/CO-OP</Type>
 		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/362890/header.jpg</TitlePicture>
+		<CreationYear>2014</CreationYear>
+		<DevTeam>Valve</DevTeam>
+		<Publisher>Valve</Publisher>
+		<Type>FPS/CO-OP</Type>
 		<Resume>FPS en Coop</Resume>
 		<AdditionalInfos>https://steamdb.info/app/362890/info/</AdditionalInfos>
 	</Title>
@@ -44,9 +52,11 @@
 		<Name>Half-Life 2</Name>
 		<AppID>220</AppID>
 		<Abreviation>hl2</Abreviation>
-		<CreationYear>2002</CreationYear>
-		<Type>FPS</Type>
 		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/220/header.jpg</TitlePicture>
+		<CreationYear>2002</CreationYear>
+		<DevTeam>Valve</DevTeam>
+		<Publisher>Valve</Publisher>
+		<Type>FPS</Type>
 		<Resume>Best Game Ever</Resume>
 		<AdditionalInfos>https://steamdb.info/app/220/info/</AdditionalInfos>
 	</Title>
