@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Titles>
 	<Title>
 		<Name>Counter-Strike</Name>
@@ -22,7 +22,7 @@
 	</Title>
 	<Title>
 		<Name>ARK Survival Evolved</Name>
-		<AppID></AppID>
+		<AppID>346110</AppID>
 		<Abbreviation></Abbreviation>
 		<CreationYear></CreationYear>
 		<Type>Survival</Type>
