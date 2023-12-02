@@ -30,4 +30,24 @@
 		<Resume>Jeu de survie</Resume>
 		<AdditionalInfos>https://steamdb.info/app/346110/info/</AdditionalInfos>
 	</Title>
+	<Title>
+		<Name>Black-Mesa (Source-Coop Mod)</Name>
+		<AppID>244310</AppID>
+		<Abreviation>bms-sourcecoop</Abreviation>
+		<CreationYear>2014</CreationYear>
+		<Type>FPS/CO-OP</Type>
+		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/362890/header.jpg</TitlePicture>
+		<Resume>FPS en Coop</Resume>
+		<AdditionalInfos>https://steamdb.info/app/362890/info/</AdditionalInfos>
+	</Title>
+	<Title>
+		<Name>Half-Life 2</Name>
+		<AppID>220</AppID>
+		<Abreviation>hl2</Abreviation>
+		<CreationYear>2002</CreationYear>
+		<Type>FPS</Type>
+		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/220/header.jpg</TitlePicture>
+		<Resume>Best Game Ever</Resume>
+		<AdditionalInfos>https://steamdb.info/app/220/info/</AdditionalInfos>
+	</Title>
 </Titles>
