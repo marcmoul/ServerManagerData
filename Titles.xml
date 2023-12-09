@@ -38,7 +38,7 @@
 	</Title>
 	<Title>
 		<Name>ARK Survival Evolved</Name>
-		<AppID>346110</AppID>
+		<AppID>376030</AppID>
 		<Abreviation>arkse</Abreviation>
 		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/346110/header.jpg</TitlePicture>
 		<CreationYear>2015</CreationYear>
@@ -47,6 +47,18 @@
 		<Type>Survival</Type>
 		<Resume>Jeu de survie</Resume>
 		<AdditionalInfos>https://steamdb.info/app/346110/info/</AdditionalInfos>
+	</Title>
+	<Title>
+		<Name>ARK Survival Ascended</Name>
+		<AppID>2430930</AppID>
+		<Abreviation>arksa</Abreviation>
+		<TitlePicture></TitlePicture>
+		<CreationYear>2023</CreationYear>
+		<DevTeam>Wildcard</DevTeam>
+		<Publisher>Wildcard</Publisher>
+		<Type>Survival</Type>
+		<Resume>Jeu de survie</Resume>
+		<AdditionalInfos>https://steamdb.info/app/2430930/info/</AdditionalInfos>
 	</Title>
 	<Title>
 		<Name>Black-Mesa (Source-Coop Mod)</Name>
