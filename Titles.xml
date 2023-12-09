@@ -61,6 +61,18 @@
 		<AdditionalInfos>https://steamdb.info/app/362890/info/</AdditionalInfos>
 	</Title>
 	<Title>
+		<Name>Half-Life Dedicated Server</Name>
+		<AppID>90</AppID>
+		<Abreviation>hlds</Abreviation>
+		<TitlePicture>https://steamdb.info/static/img/applogo.svg</TitlePicture>
+		<CreationYear>-52</CreationYear>
+		<DevTeam>Valve</DevTeam>
+		<Publishier>Valve</Publishier>
+		<Type>FPS</Type>
+		<Resume>Jeu</Resume>
+		<AdditionalInfos>https://steamdb.info/app/90/info/</AdditionalInfos>
+	</Title>
+	<Title>
 		<Name>Half-Life 2</Name>
 		<AppID>220</AppID>
 		<Abreviation>hl2</Abreviation>
