@@ -61,19 +61,31 @@
 		<AdditionalInfos>https://steamdb.info/app/362890/info/</AdditionalInfos>
 	</Title>
 	<Title>
-		<Name>Half-Life Dedicated Server</Name>
-		<AppID>90</AppID>
-		<Abreviation>hlds</Abreviation>
-		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/70/header.jpg</TitlePicture>
+		<Name>Day of Defeat</Name>
+		<AppID>30</AppID>
+		<Abreviation>dod</Abreviation>
+		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/30/header.jpg</TitlePicture>
+		<CreationYear>2003</CreationYear>
+		<DevTeam>Valve</DevTeam>
+		<Publisher></Publisher>
+		<Type>FPS</Type>
+		<Resume>???</Resume>
+		<AdditionalInfos>https://steamdb.info/app/30/info/</AdditionalInfos>
+	</Title>
+	<Title>
+		<Name>Half-Life Deathmatch Classic</Name>
+		<AppID>40</AppID>
+		<Abreviation>dmc</Abreviation>
+		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/40/header.jpg</TitlePicture>
 		<CreationYear>-52</CreationYear>
 		<DevTeam>Valve</DevTeam>
 		<Publishier>Valve</Publishier>
 		<Type>FPS</Type>
 		<Resume>Jeu</Resume>
-		<AdditionalInfos>https://steamdb.info/app/90/info/</AdditionalInfos>
+		<AdditionalInfos>https://steamdb.info/app/40/info/</AdditionalInfos>
 	</Title>
 	<Title>
-		<Name>Half-Life 2</Name>
+		<Name>Half-Life 2 Co-Op</Name>
 		<AppID>220</AppID>
 		<Abreviation>hl2</Abreviation>
 		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/220/header.jpg</TitlePicture>
@@ -83,5 +95,17 @@
 		<Type>FPS</Type>
 		<Resume>Best Game Ever</Resume>
 		<AdditionalInfos>https://steamdb.info/app/220/info/</AdditionalInfos>
+	</Title>
+	<Title>
+		<Name>Team Fortress Classic</Name>
+		<AppID>20</AppID>
+		<Abreviation>tfc</Abreviation>
+		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/20/header.jpg</TitlePicture>
+		<CreationYear>1999</CreationYear>
+		<DevTeam>Valve</DevTeam>
+		<Publisher>Valve</Publisher>
+		<Type>???</Type>
+		<Resume>???</Resume>
+		<AdditionalInfos>https://steamdb.info/app/20/</AdditionalInfos>
 	</Title>
 </Titles>
