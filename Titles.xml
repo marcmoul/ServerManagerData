@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Titles>
 	<Title>
 		<Name>Counter-Strike</Name>
@@ -11,6 +11,18 @@
 		<Type>FPS</Type>
 		<Resume>Jeu de tir FPS</Resume>
 		<AdditionalInfos>https://steamdb.info/app/10/</AdditionalInfos>
+	</Title>
+	<Title>
+		<Name>Counter-Strike Condition Zero</Name>
+		<AppID>80</AppID>
+		<Abreviation>czero</Abreviation>
+		<TitlePicture>https://cdn.cloudflare.steamstatic.com/steam/apps/80/header.jpg</TitlePicture>
+		<CreationYear>2004</CreationYear>
+		<DevTeam>Valve</DevTeam>
+		<Publisher>Valve</Publisher>
+		<Type>FPS</Type>
+		<Resume>Jeu de tir FPS</Resume>
+		<AdditionalInfos>https://steamdb.info/app/80/info/</AdditionalInfos>
 	</Title>
 	<Title>
 		<Name>Counter-Strike Source</Name>
